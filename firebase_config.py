@@ -9,7 +9,7 @@ from firebase_admin import credentials, db
 DATABASE_URL = "https://predectivemaintenance-aef92-default-rtdb.firebaseio.com/"
 LOCAL_CREDENTIALS_FILE = (
     Path(__file__).with_name(
-        "predectivemaintenance-aef92-firebase-adminsdk-fbsvc-511e12fdf5.json"
+        "predectivemaintenance-aef92-firebase-adminsdk-fbsvc-3b6ffb0641.json"
     )
 )
 
